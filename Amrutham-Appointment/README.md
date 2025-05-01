@@ -52,7 +52,7 @@ A responsive doctor consultation web application where users can:
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/amrutam-frontend.git
+git clone https://github.com/saivarunpuri/amrutam-appointment
 cd amrutam-frontend
 npm install
 ```
